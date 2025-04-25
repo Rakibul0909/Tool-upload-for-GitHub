@@ -12,6 +12,8 @@
 `git remote add origin https://github.com/Rakibul0909/whatsapp-bot.git`
 `git push -u origin main`
 
+         👇👇👇👇👇
+
 `git status`
 
 `mkdir whatsapp-bot`
