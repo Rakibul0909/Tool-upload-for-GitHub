@@ -37,7 +37,11 @@
 
 `git config --global user.email "you@example.com"`
 
+`git commit -m "first commit"`
+
 `git branch -M main`
+
+`git checkout -b main`
 
 `git remote -v`
 
