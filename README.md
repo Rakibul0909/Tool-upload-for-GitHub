@@ -9,6 +9,10 @@
 
 `git commit -m "first commit"`
 
+`git config --global user.name "Your Name"`
+
+`git config --global user.email "you@example.com"`
+
 `git branch -M main`
 
 `git remote add origin` 
